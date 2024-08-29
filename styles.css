@@ -1,0 +1,15 @@
+html{
+    display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+    
+}
+body{ 
+    width:400px;
+    margin: 0px auto;
+    /* display: inline-block;
+    margin: 0px auto;
+    text-align: center; */
+    background-color: #424242;
+    color: #229799;
+}
